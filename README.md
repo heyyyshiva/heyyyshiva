@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIVA SONAR</h1>
-<p align="center"><em>A passionate Designer & Frontend Developer</em></p>
+<p align="center"><em>A passionate Designer, Frontend Developer & Vibe Coder </em></p>
 
 <p align="center">
   <img src="ss.gif.gif" width="400" alt="Coding GIF"/>
