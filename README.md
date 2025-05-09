@@ -2,7 +2,7 @@
 <p align="center"><em>A passionate Designer & Frontend Developer</em></p>
 
 <p align="center">
-  <img src="ss.gif" width="400" alt="Coding GIF"/>
+  <img src="ss.gif.gif" width="400" alt="Coding GIF"/>
 </p>
 
 ---
