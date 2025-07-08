@@ -43,14 +43,21 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=heyyyshiva&theme=transparent&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyyshiva&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  <!-- 🔥 Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=heyyyshiva&theme=transparent&hide_border=true" alt="Streak Stats" />
+  <br/><br/>
+
+  <!-- 🧠 General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=heyyyshiva&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+
+  <!-- 📊 Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyyshiva&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- Snake animation -->
+<!-- 🐍 Snake animation -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
