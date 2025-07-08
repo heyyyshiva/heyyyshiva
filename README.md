@@ -2,7 +2,7 @@
 <p align="center"><em>A passionate Designer, Frontend Developer & Vibe Coder</em></p>
 
 <p align="center">
-  <img src="ss.gif.gif" width="400" alt="Coding GIF"/>
+  <img src="ss.gif2.gif" width="400" alt="Coding GIF"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
