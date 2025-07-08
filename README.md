@@ -14,14 +14,13 @@
 
 ---
 
-### 💡 About Me
+### ⚡ Who is SHIVA?
 
-I'm a creative and detail-oriented front-end developer with a strong interest in user-centered design. I enjoy turning ideas into beautifully crafted, responsive websites and always strive to keep learning and improving my skills.
-
-- 🎨 Skilled in UI/UX design and prototyping  
-- 🌐 Focused on building responsive and accessible web interfaces  
-- 🚀 Constantly exploring the latest design trends and web technologies  
-- 🤝 Open to collaborations and exciting freelance opportunities  
+🚀 Just a curious mind building the frontiers of the web one pixel at a time.  
+🎨 I code like I design — clean, smooth, and with a lot of good vibes.  
+🛠️ I believe good UI is magic — and I'm the frontend wizard behind the spell.  
+💬 I speak fluent HTML, CSS, JS — with a bit of sarcasm and a lot of coffee.  
+📡 Always learning, always pushing — building, breaking, fixing, growing.
 
 ---
 
