@@ -46,8 +46,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyyshiva&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
+<!-- Snake Game Repo View -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
