@@ -7,10 +7,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.com/users/1266765091903246410" target="_blank">
+  <a href="https://discord.com/users/1266765091903246410" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/shiv-sonar-595451351/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:shivsonar73@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://www.instagram.com/yourusername/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
+
 
 ---
 
