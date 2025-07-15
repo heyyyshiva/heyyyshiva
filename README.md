@@ -6,23 +6,29 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.com/users/1266765091903246410" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+
+<p align="left" style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://discord.com/users/1266765091903246410" target="_blank" style="border: none; outline: none; text-decoration: none; display: inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="45" height="45" style="display: block;"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/shiv-sonar-595451351/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/shiv-sonar-595451351/" target="_blank" style="border: none; outline: none; text-decoration: none; display: inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="45" height="45" style="display: block;"/>
   </a>
 
-  <a href="mailto:shivsonar73@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:shivsonar73@gmail.com" target="_blank" style="border: none; outline: none; text-decoration: none; display: inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="45" height="45" style="display: block;"/>
   </a>
-  
-  <a href="https://www.instagram.com/shiva__realm/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+  <a href="https://www.instagram.com/shiva__realm/" target="_blank" style="border: none; outline: none; text-decoration: none; display: inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="45" height="45" style="display: block;"/>
   </a>
 </p>
+
+
+
+
+
 
 
 ---
