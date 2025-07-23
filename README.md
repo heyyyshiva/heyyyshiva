@@ -89,3 +89,7 @@
 - ✅ Launch a personal blog — dev + design vibes  
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Vibes-blueviolet?style=flat&logo=react" />
+</p>
+
