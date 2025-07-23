@@ -2,7 +2,7 @@
 <p align="center"><em>A Passionate Designer, Frontend Developer & Vibe Coder ⚡</em></p>
 
 <p align="center">
-  <img src="ss.gif" width="400" alt="Coding GIF"/>
+  <img src="download.gif" width="400" alt="Coding GIF"/>
 </p>
 
 ---
