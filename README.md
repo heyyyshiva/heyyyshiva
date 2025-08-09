@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00C9A7;">SHIVA</span></h1>
-<p align="center"><em>A Passionate Designer, Frontend Developer & Vibe Coder ⚡</em></p>
+<p align="center"><em>A Passionate python developer, Frontend Developer & Vibe Coder ⚡</em></p>
 
 <p align="center">
   <img src="download.gif" width="400" alt="Coding GIF"/>
