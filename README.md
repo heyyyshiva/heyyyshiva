@@ -84,6 +84,7 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Vibes-blueviolet?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Frontend-Vibes-00C9A7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Magic-306998?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
