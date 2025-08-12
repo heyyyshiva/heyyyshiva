@@ -24,7 +24,7 @@
 
 ---
 
-### ⚡ Who is SHIVA
+### ⚡ Who is SHIVA?
 🎯 Creative thinker obsessed with clean UI & pixel-perfection  
 🧩 I mix design, logic, and chaos to make the web magical  
 ☕ Runs on code, coffee, and chaotic good energy  
