@@ -19,7 +19,6 @@
   <a href="https://discord.com/users/1266765091903246410" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40"></a>
   <a href="https://www.linkedin.com/in/shiv-sonar-595451351/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40"></a>
   <a href="mailto:shivsonar73@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"></a>
-  <a href="https://www.instagram.com/shiva__realm/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"></a>
 </p>
 
 ---
