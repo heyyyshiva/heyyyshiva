@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  <b>"Code. Create. Conquer. 🚀"</b>
+  <b>"Code. Create. Conquer. kaisen "</b>
 </p>
