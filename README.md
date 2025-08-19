@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <video src="jotaro.mp4" width="500" autoplay loop muted></video>
+  <video src="JOTARO.mp4" width="500" autoplay loop muted></video>
 </p>
 
 ---
