@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <video src="JOTARO.mp4" width="500" autoplay loop muted></video>
+  <img src="JOTARO F.gif" width="400" alt="Coding GIF"/>
 </p>
 
 ---
