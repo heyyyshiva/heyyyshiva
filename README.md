@@ -67,3 +67,7 @@
   <img src="https://img.shields.io/badge/Frontend-Vibes-A020F0?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Magic-306998?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+<p align="center">
+  <b>"Code. Create. Conquer. 🚀"</b>
+</p>
