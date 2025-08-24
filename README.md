@@ -16,10 +16,17 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://discord.com/users/1266765091903246410" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40"></a>
-  <a href="https://www.linkedin.com/in/shiv-sonar-595451351/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40"></a>
-  <a href="mailto:shivsonar73@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"></a>
+  <a href="https://discord.com/users/1266765091903246410" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shiv-sonar-595451351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shivsonar73@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -70,4 +77,11 @@
 
 <p align="center">
   <b>"*Kaizen Mode: Always Evolving...*"</b>
+</p>
+
+### 🎶 Now Playing on Spotify
+<p align="center">
+  <a href="https://open.spotify.com/user/your_spotify_username">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+  </a>
 </p>
