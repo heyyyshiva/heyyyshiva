@@ -46,13 +46,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heyyyshiva&theme=transparent&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=heyyyshiva&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyyshiva&layout=compact&theme=transparent&hide_border=true&count_private=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=heyyyshiva&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=heyyyshiva&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyyyshiva&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
