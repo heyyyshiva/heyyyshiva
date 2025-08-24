@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  <b>"Code. Create. Conquer. kaisen "</b>
+  <b>"*Kaizen Mode: Always Evolving...*"</b>
 </p>
