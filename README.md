@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="Jotaro+Cujoh⭐+_+JoJo+EDIT💪.gif" width="400" alt="Coding GIF"/>
+  <img src="JOTARO F.gif" width="400" alt="Coding GIF"/>
 </p>
 
 ---
