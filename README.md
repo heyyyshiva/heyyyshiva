@@ -77,6 +77,12 @@
   <img src="https://img.shields.io/badge/Python-Magic-306998?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+### 🌍 Where My Code Travels
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyyyshiva&theme=chartreuse_dark" />
+</p>
+
+
 <p align="center">
   <b>"*Kaizen Mode: Always Evolving...*"</b>
 </p>
