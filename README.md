@@ -87,3 +87,13 @@
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
   </a>
 </p>
+
+### 🎮 When Not Coding...
+<p align="center">
+  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="250">
+</p>
+
+- ⚔️ Anime & Gaming enthusiast  
+- 🎵 Always vibing with music  
+- ✨ Turning caffeine into code & chaos  
+
