@@ -49,12 +49,11 @@
 ---
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=heyyyshiva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=heyyyshiva&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyyyshiva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=heyyyshiva&theme=chartreuse-dark&hide_border=true)<br/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
