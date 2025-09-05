@@ -31,10 +31,12 @@
 ---
 
 ### ⚡ Who is SHIVA?
-🎯 Creative thinker obsessed with clean UI & pixel-perfection  
-🧩 I mix design, logic, and chaos to make the web magical  
-☕ Runs on code, coffee, and chaotic good energy  
-💡 Building, breaking, learning, growing — that’s the loop  
+🕶️ A glitch in the matrix, here to bend code & reality  
+🌌 Explorer of pixels, clouds, and endless loops  
+🎭 I don’t just write code — I craft experiences  
+⚡ Balancing chaos & logic to keep the vibes alive  
+🚀 Currently upgrading to **Next-gen Dev Mode (Next.js + Cloud)**  
+
 
 ---
 
@@ -63,10 +65,10 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Vibes-A020F0?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Magic-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Explorer-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 ### 🌍 Where My Code Travels
