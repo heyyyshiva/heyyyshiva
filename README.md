@@ -1,12 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B%2C+I'm+SHIVA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=System+Online...;User:+SHIVA;Role:+Python+%26+Frontend+Dev;Status:+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <a href="https://github.com/heyyyshiva">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=A+Passionate+Python+Developer;Frontend+Developer+%26+Vibe+Coder" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="bleach1.gif" width="400" alt="Coding GIF"/>
