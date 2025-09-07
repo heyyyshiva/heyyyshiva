@@ -45,11 +45,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mysql,mongodb,appwrite,git,gcp,firebase&perline=6" />
 </p>
 
-
-
-
----
-
 ---
 
 ### 🐍 Contribution Snake
@@ -100,5 +95,8 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
+
+
 
 
