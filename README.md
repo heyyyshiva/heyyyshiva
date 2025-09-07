@@ -96,6 +96,12 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-Coffee-ff9800?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coded%20In-Vibes-9b59b6?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lives%20On-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</p>
+
 
 
 
