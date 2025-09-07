@@ -54,10 +54,10 @@
 
 ---
 
-### 💡 Fun Animation — My Coding Journey
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A020F0&vCenter=true&width=435&lines=Frontend+Developer;Designer+%26+Coffee+Lover;Crafting+UI+with+Good+Vibes;Always+Learning+%F0%9F%9A%80" />
-</p>
+### 💡 SYSTEM 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=ff0066&center=true&vCenter=true&width=500&lines=System+Online...;User:+SHIVA;Status:+Chaotic+Good;Mode:+NextGen+Developer" />
+</h3>
 
 ---
 <p align="center">
