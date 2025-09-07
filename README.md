@@ -20,7 +20,10 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" title="Discord"/>
   </a>
 </p>
----
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 ### ⚡ Who is SHIVA?
 🕶️ A glitch in the matrix, here to bend code & reality  
