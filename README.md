@@ -102,6 +102,14 @@
   <img src="https://img.shields.io/badge/Lives%20On-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=heyyyshiva&theme=radical&data=followers,repositories,stars,commits" />
+</p>
+
+
+
+
+
 
 
 
