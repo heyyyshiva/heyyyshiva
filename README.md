@@ -6,7 +6,9 @@
   <img src="bleach1.gif" width="400" alt="Coding GIF"/>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 ### 🔗 Connect With Me
 <p align="center">
@@ -15,9 +17,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
+---
 
 ### ⚡ Who is SHIVA?
 🕶️ A glitch in the matrix, here to bend code & reality  
