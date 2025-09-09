@@ -95,7 +95,10 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=heyyyshiva&theme=radical&data=followers,repositories,stars,commits" />
 </p>
 
-
+### 🌠 My Code Constellation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyyyshiva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
 
 
 
