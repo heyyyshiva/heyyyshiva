@@ -24,7 +24,7 @@
 🌌 Explorer of pixels, clouds, and endless loops  
 🎭 I don’t just write code — I craft experiences  
 ⚡ Balancing chaos & logic to keep the vibes alive  
-🚀 Currently upgrading to **Next-gen Dev Mode (Next.js + Cloud)**  
+🚀 Currently upgrading to **Next-gen Dev Mode (Next.js + Cloud)**  HI
 
 
 ---
