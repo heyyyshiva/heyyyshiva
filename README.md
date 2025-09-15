@@ -13,9 +13,18 @@
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://discord.com/users/1266765091903246410" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" title="Discord"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="50" title="Discord"/>
+  </a>
+  <a href="mailto:shivsonar73@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Email"/>
+  </a>
+  <a href="https://instagram.com/shiva__realm" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" title="Instagram"/>
   </a>
 </p>
+
+
+
 
 ---
 
