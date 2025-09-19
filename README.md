@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="download.gif" width="400" alt="Coding GIF"/>
+  <img src="JOTARO F.gif" width="400" alt="Coding GIF"/>
 </p>
 
 <p align="center">
