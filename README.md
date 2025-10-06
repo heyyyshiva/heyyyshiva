@@ -24,8 +24,6 @@
 </p>
 
 
-
-
 ---
 
 ### ⚡ Who is SHIVA?
@@ -34,7 +32,6 @@
 🎭 I don’t just write code — I craft experiences  
 ⚡ Balancing chaos & logic to keep the vibes alive  
 🚀 Currently upgrading to **Next-gen Dev Mode (Next.js + Cloud)**  HI
-
 
 ---
 
