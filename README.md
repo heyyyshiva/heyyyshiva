@@ -33,10 +33,9 @@
 🚀 Currently upgrading to **Next-gen Dev Mode (Next.js + Cloud)**  HI
 
 ---
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Stack</b>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mysql,mongodb,appwrite,git,gcp,firebase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mysql,mongodb,appwrite,git,gcp,firebase,nextjs,tailwind" />
 </p>
 
 ---
