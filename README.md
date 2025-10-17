@@ -24,15 +24,6 @@
 </p>
 
 ---
-
-### ⚡ Who is SHIVA?
-🕶️ A glitch in the matrix, here to bend code & reality  
-🌌 Explorer of pixels, clouds, and endless loops  
-🎭 I don’t just write code — I craft experiences  
-⚡ Balancing chaos & logic to keep the vibes alive  
-🚀 Currently upgrading to **Next-gen Dev Mode (Next.js + Cloud)**  HI
-
----
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Stack</b>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mysql,mongodb,appwrite,git,gcp,firebase,nextjs,tailwind" />
