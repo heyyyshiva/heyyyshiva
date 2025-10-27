@@ -15,6 +15,8 @@
   <a href="https://discord.com/users/1266765091903246410" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="50" title="Discord"/>
   </a>
+
+  
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Stack</b>
 <p align="center">
