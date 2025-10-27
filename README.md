@@ -15,14 +15,6 @@
   <a href="https://discord.com/users/1266765091903246410" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="50" title="Discord"/>
   </a>
-  <a href="mailto:shivsonar73@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Email"/>
-  </a>
-  <a href="https://instagram.com/shiva__realm" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" title="Instagram"/>
-  </a>
-</p>
-
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Stack</b>
 <p align="center">
