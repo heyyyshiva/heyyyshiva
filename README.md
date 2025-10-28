@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=System+Online...;User:+SHIVA;Role:+Python+%26+Frontend+Dev;Status:+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="yama.gif" width="400" alt="Coding GIF"/>
@@ -12,36 +9,34 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://discord.com/users/1266765091903246410" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="50" title="Discord"/>
-  </a>
+  <a href="https://discord.com/users/1266765091903246410" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="50" title="Discord"/></a>
 
-  
----
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Stack</b>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mysql,mongodb,appwrite,git,gcp,firebase,nextjs,tailwind" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Stack</b>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,astro,python,rust,go,nodejs,express,mysql,mongodb,appwrite,firebase,git,gcp,linux,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-### 💡 SYSTEM 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=ff0066&center=true&vCenter=true&width=500&lines=System+Online...;User:+SHIVA;Status:+Chaotic+Good;Mode:+NextGen+Developer" />
-</h3>
-
----
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Vibes-A020F0?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Magic-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-Explorer-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
 ### 🌍 Where My Code Travels
@@ -54,11 +49,19 @@
   <b>"*Kaizen Mode: Always Evolving...*"</b>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
 ### 🎶 Now Playing on Spotify
 <p align="center">
   <a href="https://open.spotify.com/user/your_spotify_username">
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
 ### 🎮 When Not Coding...
@@ -84,7 +87,9 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=heyyyshiva&theme=radical&data=followers,repositories,stars,commits" />
 </p>
 
-
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 
 
