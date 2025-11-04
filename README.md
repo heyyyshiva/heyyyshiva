@@ -17,7 +17,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Stack</b>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,astro,python,rust,go,nodejs,express,mysql,mongodb,appwrite,firebase,git,gcp,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,firebase,git,vscode" />
 </p>
 
 <p align="center">
