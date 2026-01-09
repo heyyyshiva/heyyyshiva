@@ -15,10 +15,12 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Stack</b>
+## 🛠️ Skills & Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,firebase,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,vscode,mysql" />
 </p>
+
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
