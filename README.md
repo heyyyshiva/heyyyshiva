@@ -46,7 +46,7 @@
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,vscode,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,vscode,mysql,js" />
 </p>
 
 <p align="center">
