@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="y.png" width="100%" />
+  <img src="shiva.png" width="100%" />
 </p>
 
 <h1 align="center">⚔️ HEYYY SHIVA ⚔️</h1>
