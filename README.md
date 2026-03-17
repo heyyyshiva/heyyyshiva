@@ -35,6 +35,9 @@
   <a href="https://discord.com/users/1266765091903246410">
     <img src="https://skillicons.dev/icons?i=discord" width="60"/>
   </a>
+  <a href="https://www.linkedin.com/in/shiva-sonar/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+  </a>
 </p>
 
 ---
