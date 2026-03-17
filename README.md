@@ -85,20 +85,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="30"/>
 </p>
 
-## 🎧 Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/your_spotify_username">
-    <img src="https://novatorem.vercel.app/api/spotify" width="400"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="30"/>
-</p>
-
 ## 🎮 Off The Grid
 
 <p align="center">
